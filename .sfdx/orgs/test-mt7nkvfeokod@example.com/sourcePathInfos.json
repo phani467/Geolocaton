@@ -1,0 +1,296 @@
+[
+    [
+        "/Users/phanikumar/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537002198086,
+            "changeTime": 1537002198086,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537002198086,
+            "changeTime": 1537002198086,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1537036381632,
+            "changeTime": 1537036381632,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1537002198086,
+            "changeTime": 1537002198086,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/phanikumar/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1537002466152,
+            "changeTime": 1537002466152,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields/Account_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields/Account_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1023,
+            "modifiedTime": 1537036381532,
+            "changeTime": 1537036381532,
+            "contentHash": "56d57dedc98fa48dca42646ac35751fc53b114a6"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1537036381533,
+            "changeTime": 1537036381533,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9774,
+            "modifiedTime": 1537036381551,
+            "changeTime": 1537036381551,
+            "contentHash": "5b0f4a0b40e2b099b2abd885416ac7c3cb9d2d66"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9726,
+            "modifiedTime": 1537036381560,
+            "changeTime": 1537036381560,
+            "contentHash": "0ead172282b8122c43bafa5e7f165b0a0e019b04"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9726,
+            "modifiedTime": 1537036381569,
+            "changeTime": 1537036381569,
+            "contentHash": "a05ed51fa58a92b42a684572e13150edafd67c62"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9774,
+            "modifiedTime": 1537036381576,
+            "changeTime": 1537036381576,
+            "contentHash": "da753fa6b62d836e8d0180b0f1b35b9d53f6b21a"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4979,
+            "modifiedTime": 1537036381580,
+            "changeTime": 1537036381580,
+            "contentHash": "5bb1fa2d693571e42bc79f5979e9f5c87290a860"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4643,
+            "modifiedTime": 1537036381585,
+            "changeTime": 1537036381585,
+            "contentHash": "85b6b55d712a2096b659b91ee9485e92f3e07fab"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18044,
+            "modifiedTime": 1537036381617,
+            "changeTime": 1537036381617,
+            "contentHash": "4bbb7cba960c53a0146d662405a516e421523aab"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4639,
+            "modifiedTime": 1537036381629,
+            "changeTime": 1537036381629,
+            "contentHash": "8e1ba3c06918fe7482f37e90c700645258283be3"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 868,
+            "modifiedTime": 1537036381632,
+            "changeTime": 1537036381632,
+            "contentHash": "b9948815102255e0236f5fe2ccd1bc79a264772d"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537036381533,
+            "changeTime": 1537036381533,
+            "contentHash": "d4650665ff3c97b36f71530e26aa11e38c65373d"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537036381530,
+            "changeTime": 1537036381530,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537036381530,
+            "changeTime": 1537036381530,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537036381576,
+            "changeTime": 1537036381576,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537036381629,
+            "changeTime": 1537036381629,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/phanikumar/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phanikumar/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537036381632,
+            "changeTime": 1537036381632,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
